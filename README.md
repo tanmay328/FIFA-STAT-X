@@ -1,4 +1,3 @@
-FIFASTATX: Scenario-Based Football Duel Analytics System
 FIFASTATX is an interactive, scenario-based football analytics web application designed to simulate and evaluate isolated 1-versus-1 player matchups using situational statistical attributes. Moving away from traditional, opaque "black-box" machine learning predictions, this system delivers transparent and explainable sports insights.
 
 Key Features
